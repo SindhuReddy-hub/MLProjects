@@ -3,3 +3,11 @@ build ML projects into package we use
 to build application into package we use setup.py
 
 -e. automatically run setup.py file in requirments.txt
+
+components: all modules like data injection(reading the data from)
+
+utils.py  ex: read a dataset from database, save my model
+
+for exception : search exception python
+
+sys: 
